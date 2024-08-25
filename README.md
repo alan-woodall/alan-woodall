@@ -1,6 +1,6 @@
-Hi, I’m Alan Woodall
-I’m interested in systems and automation
-I’m currently learning scripting
+Hi, I’m Alan Woodall\
+I’m interested in systems and automation\
+I’m currently learning scripting\
 My website is https://alanwoodall.com
 
 <!---
